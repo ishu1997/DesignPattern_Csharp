@@ -1,0 +1,15 @@
+D:\Personal_projects\DesignPattern_Csharp\bin\Debug\net6.0\DesignPattern_Csharp.exe
+D:\Personal_projects\DesignPattern_Csharp\bin\Debug\net6.0\DesignPattern_Csharp.deps.json
+D:\Personal_projects\DesignPattern_Csharp\bin\Debug\net6.0\DesignPattern_Csharp.runtimeconfig.json
+D:\Personal_projects\DesignPattern_Csharp\bin\Debug\net6.0\DesignPattern_Csharp.dll
+D:\Personal_projects\DesignPattern_Csharp\bin\Debug\net6.0\DesignPattern_Csharp.pdb
+D:\Personal_projects\DesignPattern_Csharp\obj\Debug\net6.0\DesignPattern_Csharp.csproj.AssemblyReference.cache
+D:\Personal_projects\DesignPattern_Csharp\obj\Debug\net6.0\DesignPattern_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal_projects\DesignPattern_Csharp\obj\Debug\net6.0\DesignPattern_Csharp.AssemblyInfoInputs.cache
+D:\Personal_projects\DesignPattern_Csharp\obj\Debug\net6.0\DesignPattern_Csharp.AssemblyInfo.cs
+D:\Personal_projects\DesignPattern_Csharp\obj\Debug\net6.0\DesignPattern_Csharp.csproj.CoreCompileInputs.cache
+D:\Personal_projects\DesignPattern_Csharp\obj\Debug\net6.0\DesignPattern_Csharp.dll
+D:\Personal_projects\DesignPattern_Csharp\obj\Debug\net6.0\refint\DesignPattern_Csharp.dll
+D:\Personal_projects\DesignPattern_Csharp\obj\Debug\net6.0\DesignPattern_Csharp.pdb
+D:\Personal_projects\DesignPattern_Csharp\obj\Debug\net6.0\DesignPattern_Csharp.genruntimeconfig.cache
+D:\Personal_projects\DesignPattern_Csharp\obj\Debug\net6.0\ref\DesignPattern_Csharp.dll
