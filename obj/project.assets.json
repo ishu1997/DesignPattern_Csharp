@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal_projects\\DesignPattern_Csharp\\DesignPattern_Csharp.csproj",
+      "projectUniqueName": "d:\\Personal_projects\\DesignPattern_Csharp\\DesignPattern_Csharp.csproj",
       "projectName": "DesignPattern_Csharp",
-      "projectPath": "D:\\Personal_projects\\DesignPattern_Csharp\\DesignPattern_Csharp.csproj",
+      "projectPath": "d:\\Personal_projects\\DesignPattern_Csharp\\DesignPattern_Csharp.csproj",
       "packagesPath": "C:\\Users\\shubham\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal_projects\\DesignPattern_Csharp\\obj\\",
+      "outputPath": "d:\\Personal_projects\\DesignPattern_Csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shubham\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
       }
     }
   }
