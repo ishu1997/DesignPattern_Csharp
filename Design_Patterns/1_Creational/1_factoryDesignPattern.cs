@@ -10,7 +10,7 @@ public class Factory
 {
     // Basic notes
 
-    
+
     // program main ke andar sirf below code jayega
     // --CreditCard card = Factory.GetCardDetails("titanium");
     // --card.GetCardLimit();
@@ -36,11 +36,11 @@ public class Factory
         }
         if (rCard == "platinum")
         {
-            card = new TitaniumCard();
+            card = new Platinum();
         }
         if (rCard == "vitanium")
         {
-            card = new TitaniumCard();
+            card = new vitanium();
         }
 
         return card;
